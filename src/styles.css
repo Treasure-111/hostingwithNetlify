@@ -1,0 +1,11 @@
+img {
+  display: block;
+  margin: 0 auto;
+  max-width: 200px;
+  border-radius: 5px;
+}
+h3 {
+  font-size: 18px;
+  font-style: italic;
+  color: bisque;
+}
